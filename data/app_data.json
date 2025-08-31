@@ -1,0 +1,33 @@
+{
+  "logs": [
+    {
+      "date": "2025-08-31",
+      "hours": 2
+    },
+    {
+      "date": "2025-08-31",
+      "hours": 1.5
+    },
+    {
+      "date": "2025-08-31",
+      "hours": 0.0005555555555555556
+    }
+  ],
+  "projects": [
+    {
+      "name": "test",
+      "deadline": "2025-09-01T06:22:00.000Z",
+      "id": "b0eaccef-52ff-49d1-8ffd-ab258edd5e0b",
+      "createdAt": "2025-08-31T18:23:05.103Z",
+      "isActive": true
+    },
+    {
+      "name": "new",
+      "deadline": "2025-08-31T18:28:00.000Z",
+      "id": "e2800fd0-16e5-48ec-8a23-28d5d2db4050",
+      "createdAt": "2025-08-31T18:23:46.671Z",
+      "isActive": false
+    }
+  ],
+  "totalHours": 3.5005555555555556
+}
